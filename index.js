@@ -16,4 +16,6 @@ themeToggle.addEventListener("click", () => {
     themeIcon.src = "5.png";
   } else {
     themeIcon.src = "4.png";
+  }
 });
+
